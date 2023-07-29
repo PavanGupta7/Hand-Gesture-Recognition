@@ -2,7 +2,7 @@
 
 **Description:**
 Welcome to the Hand Gesture Recognition GitHub repository! This project focuses on utilizing the powerful YOLO (You Only Look Once) deep learning method to recognize and classify hand gestures in real-time. Hand gesture recognition plays a crucial role in human-computer interaction, enabling a wide range of applications, including sign language translation, virtual reality, and robotics.
-![Hand Gesture](file:///home/pawan/Downloads/mediapipe.jpeg)
+![Hand Gesture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F84b19524609ad75f309be7f87bcea783e6ecd337%2F4-Figure6-1.png&tbnid=ty8jet5evEv3QM&vet=12ahUKEwifu8euqrSAAxUEo-kKHS3aDlcQMygnegUIARCmAg..i&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FMediaPipe-Hands%253A-On-device-Real-time-Hand-Tracking-Zhang-Bazarevsky%2F84b19524609ad75f309be7f87bcea783e6ecd337&docid=rxac-UfVqwfePM&w=656&h=364&q=mediapipe%20hand%20gesture%20architecture&client=ubuntu-sn&ved=2ahUKEwifu8euqrSAAxUEo-kKHS3aDlcQMygnegUIARCmAg)
 
 
 **Key Features:**
