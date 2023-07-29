@@ -27,5 +27,5 @@ We welcome contributions from the community! Feel free to open issues, suggest e
 The project is open-source and released under the MIT License, encouraging sharing, usage, and modification with proper attribution.
 
 **Acknowledgments:**
-This project wouldn't be possible without the contributions of the YOLO algorithm creators and the deep learning community. We extend our gratitude to all who have shared their knowledge, tools, and insights in the field of computer vision and gesture recognition.
+This project wouldn't be possible without the contributions of the YOLO and Mediapipe algorithm creators and the deep learning community. We extend our gratitude to all who have shared their knowledge, tools, and insights in the field of computer vision and gesture recognition.
 
